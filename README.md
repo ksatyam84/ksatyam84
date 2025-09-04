@@ -72,9 +72,9 @@
 
 <h3 align="left">📫 How to Reach Me</h3>
 <p align="left">
-<a href="mailto:asharan2@buffalo.edu">✉️ Email: asharan2@buffalo.edu</a><br/>
-<a href="https://www.linkedin.com/in/ashutosh-sharan" target="_blank">🔗 LinkedIn: Ashutosh Sharan</a><br/>
-<a href="https://github.com/asharan2buff" target="_blank">💻 GitHub: asharan2buff</a>
+<a href="mailto:ksatyam84@gmail.com">✉️ Email: ksatyam84@gmail.com</a><br/>
+<a href="https://www.linkedin.com/in/ksatyam84" target="_blank">🔗 LinkedIn: Kumar Satyam</a><br/>
+<a href="https://github.com/ksatyam84" target="_blank">💻 GitHub: ksatyam84</a>
 </p>
 
 ---
