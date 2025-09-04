@@ -2,14 +2,14 @@
 <h3 align="center">A Full-Stack Developer and ML enthusiast with expertise in building Scalable systems,Cloud technologies,Operating system, ML models and System optimization.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ksatyam84 " target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ashutosh--sharan-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kumar-satyam-638a2012a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-kumar--satyam-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ksatyam84" target="_blank">
-    <img src="https://img.shields.io/badge/Github-asharan2buff-black?style=flat&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Github-ksatyam84-black?style=flat&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:ksatyam84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asharan2@buffalo.edu-red?style=flat&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ksatyam84@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 <h3 align="left">📫 How to Reach Me</h3>
 <p align="left">
 <a href="mailto:ksatyam84@gmail.com">✉️ Email: ksatyam84@gmail.com</a><br/>
-<a href="https://www.linkedin.com/in/ksatyam84" target="_blank">🔗 LinkedIn: Kumar Satyam</a><br/>
+<a href="https://www.linkedin.com/in/kumar-satyam-638a2012a/" target="_blank">🔗 LinkedIn: Kumar Satyam</a><br/>
 <a href="https://github.com/ksatyam84" target="_blank">💻 GitHub: ksatyam84</a>
 </p>
 
