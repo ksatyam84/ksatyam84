@@ -17,11 +17,11 @@
 
 <h3 align="left">🔭 Projects</h3>
 
-- 🚀 **Gen AI-Powered Database Interaction System**  
+- 🚀 **Gen AI-Powered Database Interaction System(https://github.com/ksatyam84/ChatDB)**  
   Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%.  
 
-- 📸 **Transfer Learning for Multi-Class Image Classification**  
-  Developed a multi-class image classifier using transfer learning with models like EfficientNetB0, ResNet, and VGG16, achieving a validation accuracy of 92.57%.  
+- 📸 **Transfer Learning for Multi-Class Model Genre Classification(https://github.com/ksatyam84/genre-classification)**  
+  Developed a multi-class classifier using‬‭ transfer‬‭ learning‬‭ (EfficientNetB0, ResNet, VGG16,Bert,LSTM,GPT),‬‭ achieving‬F1 score of 91.28% and validation accuracy of 92.57% 
 
 - 💳 **[Buy Now, Pay Later](https://github.com/ksatyam84/Buy-Now-Pay-Later)**  
   Designed a predictive model for customer adoption of a "Buy Now, Pay Later" feature in a retail app, integrating data-driven insights to boost conversion rates.
@@ -32,8 +32,9 @@
 - 🚀 **[SVHN CNN Optimization](https://github.com/ksatyam84/SVHN-CNN-Optimization)**  
   Optimized a Convolutional Neural Network for the SVHN dataset, reducing inference time while maintaining robust performance on real-world image data.
 
-- 🤖 **[Therapy.ai](https://github.com/asharan2buff/Therapy.ai)**  
-  Created an AI-powered chatbot using natural language processing to provide mental health support and therapy recommendations in a user-friendly interface.
+- 🤖 **[Gig Workers](https://github.com/ksatyam84/gig-workers)**  
+  Created an AI-powered feature of getting nutrition details from just uploading image using ollama hugging face model with 7b parameters and while driving capture the face if its
+  sleeping ,yawning by calculating eye aspect ratio ,mouth aspect ratio using open cv,dlib.
 
 - 📈 **[Stock Price Prediction Using Reinforcement Learning](https://github.com/ksatyam84/Stock-Price-Prediction-Using-Reinforcement-Learning)**  
   Built a reinforcement learning model to predict stock prices and optimize trading strategies, resulting in enhanced decision-making for market investments.
