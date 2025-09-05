@@ -17,10 +17,10 @@
 
 <h3 align="left">🔭 Projects</h3>
 
-- 🚀 **Gen AI-Powered Database Interaction System(https://github.com/ksatyam84/ChatDB)**  
+- 🚀 **[Gen AI-Powered Database Interaction System](https://github.com/ksatyam84/ChatDB)**  
   Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%.  
 
-- 📸 **Transfer Learning for Multi-Class Model Genre Classification(https://github.com/ksatyam84/genre-classification)**  
+- 📸 **[Transfer Learning for Multi-Class Model Genre Classification](https://github.com/ksatyam84/genre-classification)**  
   Developed a multi-class classifier using‬‭ transfer‬‭ learning‬‭ (EfficientNetB0, ResNet, VGG16,Bert,LSTM,GPT),‬‭ achieving‬F1 score of 91.28% and validation accuracy of 92.57% 
 
 - 💳 **[Buy Now, Pay Later](https://github.com/ksatyam84/Buy-Now-Pay-Later)**  
