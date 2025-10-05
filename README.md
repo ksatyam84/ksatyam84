@@ -42,8 +42,8 @@
 - 🏭 **[Reinforcement Learning Warehouse Robot](https://github.com/ksatyam84/Reinforecement-Learning-Warehouse-Robot)**  
   Implemented RL algorithms for robotic navigation and task planning in a simulated warehouse environment, improving operational efficiency and route optimization.
 
-- 😊 **[Sentiment Analysis using LSTM](https://github.com/ksatyam84/Sentiment-analysis-using-LSTM)**  
-  Developed an LSTM-based model to analyze sentiment from textual data, achieving robust performance in classifying customer reviews and social media posts.
+- 😊 **[GPT-2-Personal-Chatbot](https://github.com/ksatyam84/GPT-2-Personal-Chatbot)**  
+  Implemented GPT-2 architecture from scratch (multi-head attention, BPE tokenization, 12 transformer layers) and fine-tuned OpenAI's 124M-parameter pretrained weights on 1.1K instruction pairs, achieving 92.5% accuracy
 
 - ⏱ **[Time Series Forecasting using LSTM](https://github.com//ksatyam84/Time-Series-Forecasting-using-LSTM)**  
   Designed an LSTM network for time series forecasting, delivering accurate predictions across various domains including finance and demand planning.
@@ -51,7 +51,7 @@
 - 🖼 **[VGG16 vs ResNet18 vs ResNeXt](https://github.com//ksatyam84/VGG16-vs-ResNet18-vs-ResNext)**  
   Conducted a comparative study on popular CNN architectures (VGG16, ResNet18, and ResNeXt) to evaluate performance trade-offs in multi-class image classification tasks.
 
-- 🦠 **[Rabies Prediction](https://github.com//ksatyam84/Rabies-Prediction)**  
+- 🦠 **[EEG-Seizure-Detection-Using-Deep-Learning ](https://github.com//ksatyam84/EEG-Seizure-Detection-Using-Deep-Learning )**  
   Developed a machine learning model to forecast rabies outbreaks using epidemiological data, aiding in proactive public health planning and intervention.
   
 - 💰 **[AI Model Price Calculator (Streamlit App)](https://github.com/ksatyam84/ModelPricing/tree/main)**  
