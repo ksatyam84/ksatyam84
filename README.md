@@ -17,8 +17,8 @@
 
 <h3 align="left">🔭 Projects</h3>
 
-- 🚀 **[Gen AI-Powered Database Interaction System](https://github.com/ksatyam84/ChatDB)**  
-  Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%.  
+- 😊 **[GPT-2-Personal-Chatbot](https://github.com/ksatyam84/GPT-2-Personal-Chatbot)**  
+  Implemented GPT-2 architecture from scratch (multi-head attention, BPE tokenization, 12 transformer layers) and fine-tuned OpenAI's 124M-parameter pretrained weights on 1.1K instruction pairs, achieving 92.5% accuracy 
 
 - 📸 **[Transfer Learning for Multi-Class Model Genre Classification](https://github.com/ksatyam84/genre-classification)**  
   Developed a multi-class classifier using‬‭ transfer‬‭ learning‬‭ (EfficientNetB0, ResNet, VGG16,Bert,LSTM,GPT),‬‭ achieving‬F1 score of 91.28% and validation accuracy of 92.57% 
@@ -42,8 +42,8 @@
 - 🏭 **[Reinforcement Learning Warehouse Robot](https://github.com/ksatyam84/Reinforecement-Learning-Warehouse-Robot)**  
   Implemented RL algorithms for robotic navigation and task planning in a simulated warehouse environment, improving operational efficiency and route optimization.
 
-- 😊 **[GPT-2-Personal-Chatbot](https://github.com/ksatyam84/GPT-2-Personal-Chatbot)**  
-  Implemented GPT-2 architecture from scratch (multi-head attention, BPE tokenization, 12 transformer layers) and fine-tuned OpenAI's 124M-parameter pretrained weights on 1.1K instruction pairs, achieving 92.5% accuracy
+- 🚀 **[Gen AI-Powered Database Interaction System](https://github.com/ksatyam84/ChatDB)**  
+  Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%. 
 
 - ⏱ **[Time Series Forecasting using LSTM](https://github.com//ksatyam84/Time-Series-Forecasting-using-LSTM)**  
   Designed an LSTM network for time series forecasting, delivering accurate predictions across various domains including finance and demand planning.
