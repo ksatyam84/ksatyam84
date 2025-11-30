@@ -45,8 +45,8 @@
 - 🚀 **[Gen AI-Powered Database Interaction System](https://github.com/ksatyam84/ChatDB)**  
   Built a Retrieval-Augmented Generation (RAG)-based application using Flask, LLM, and ChromaDB for seamless NLP-driven database interactions with PostgreSQL and MongoDB, enhancing query efficiency by 50%. 
 
-- ⏱ **[Time Series Forecasting using LSTM](https://github.com//ksatyam84/Time-Series-Forecasting-using-LSTM)**  
-  Designed an LSTM network for time series forecasting, delivering accurate predictions across various domains including finance and demand planning.
+- 🚗 **[ Automotive Concept Car Designer using DDPM](https://github.com/ksatyam84/Automotive-Concept-Car-Designer-using-DDPM)**  
+  Built a generative AI model (DDPM + Attention U-Net) on the Stanford Cars dataset to create novel and hybrid car designs, achieving a FID score of 39.60.
 
 - 🖼 **[VGG16 vs ResNet18 vs ResNeXt](https://github.com//ksatyam84/VGG16-vs-ResNet18-vs-ResNext)**  
   Conducted a comparative study on popular CNN architectures (VGG16, ResNet18, and ResNeXt) to evaluate performance trade-offs in multi-class image classification tasks.
